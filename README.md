@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm currrently using the skills I have learnt studying statistics to perform analysis of my own. 
+I have just finshed my studies at the University of York and am looking to build a career in statistics and data analysis. 
 <!--
 **lookali-code/lookali-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
